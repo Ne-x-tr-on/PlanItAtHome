@@ -59,3 +59,5 @@ Piah Plat is designed to simplify event management for **Kenyans and global user
 1. Clone the repository:  
 ```bash
 git clone https://github.com/YourUsername/piah-plat.git
+
+
